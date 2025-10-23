@@ -17,9 +17,36 @@ Hanya Microsoft Excel dengan fitur-fitur advanced:
 - Conditional Formatting
 - Excel Tables & Structured References
 
-## Worksheet dalam sales_dashboard.xlsx:
-Sheet Name	Fungsi
-📋 INPUT_FORM	Interface untuk input data penjualan
-🗃️ DATABASE	Tabel utama penyimpanan semua transaksi
-📈 DASHBOARD	Visualisasi & analisis interaktif
-⚙️ MASTER_DATA	Data referensi (produk, kategori, dll)
+## Worksheet dalam Project_Input_karyawan_&_Visualisasi_data.xlsm:
+| Sheet Name | Deskripsi |
+|------------|--------|
+| PORTOFOLIO | Keterampilan menggunakan Excel |
+| SKILL | Tingkat Kemahiran Excel dan Tempat penerapannya |
+| DASHBOARD |	Visualisasi & analisis interaktif |
+| SOURCE_DASHBOARD | Tabel data dari Dashboard |
+| PENCARIAN | Pencarian data  karyawan dari sheet DATA_KARYAWAN |
+| DATA_KARYAWAN | Input Data Karyawan dan Database karyawan |
+| DATA_JABATAN | Input Data jabatan dan Database jabatan |
+| superstore | Data referensi (produk, kategori, dll) |
+
+## Cara Menggunakan Sistem 
+A. Input Data Baru:
+  1. Buka worksheet "DATA_KARYAWAN"
+  2. Isi field yang tersedia :
+   
+      1) Nama (Text dan akan do conver jadi UPPERCASE saatUpdate)
+      2) Divisi (Cukup isi Jabatan maka Divisi akan otomatis terisi)
+      3) Jabatan (Dipilih dengan Data Validation dengan source DATA_JABATAN)
+      4) Tanggal Lahir (Number dengan petunjuk dd/mm/yyyy saat kolom di select)
+      5) Email (Text)
+      6) No HP (number)
+      7) Alamat (Text)
+      9) Gaji (Cukup isi Jabatan maka Gaji akan otomatis terisi)
+      10) Klik Tombol **Update Data Karyawan** agar data ditambahkan
+      11) jika terdapat field yg kosong maka muncul error saat klik tombol update
+      13) SAVE file (CTRL + S)
+
+B. Melihat Analisis:
+  1. Buka worksheet "DASHBOARD"
+  2. Gunakan filter interaktif (Month, Year, Region, State)
+
