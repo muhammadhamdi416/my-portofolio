@@ -67,4 +67,4 @@ B. Melihat Analisis:
 <img src="Images-/DASHBOARD_SALES.png" alt="DASBOARD_SALES">
 
   2. INPUT_DATA_KARYAWAN
-<img src="Images-/INPUT_DATA_KARYAWAN.png" alt="INPUT_DATA_KARYAWAN1"> 
+
