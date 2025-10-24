@@ -63,3 +63,4 @@ B. Melihat Analisis:
       - Top 10 Products Visualization
     
 ## Preview Dashboard
+<img src="." alt="Deskripsi Gambar" width="200" height="150">
