@@ -62,5 +62,9 @@ B. Melihat Analisis:
       - Sales Summary Metrics (Sales, Total_Order, Profit, Profit_margin, quantity)
       - Top 10 Products Visualization
     
-## Preview Dashboard
+## Preview Project
+  1. DASHBOARD
 <img src="Images-/DASHBOARD_SALES.png" alt="DASBOARD_SALES">
+
+  2. INPUT_DATA_KARYAWAN
+<img src="Images-/INPUT_DATA_KARYAWAN.png" alt="INPUT_DATA_KARYAWAN">
