@@ -1,4 +1,4 @@
-# INPUT KARYAWAN 7 VISUALISASI DATA EXCEL 
+# INPUT DATA KARYAWAN & VISUALISASI DATA EXCEL 
 
 ## Deskripsi Proyek
 Sebuah sistem all-in-one dalam Excel yang menggabungkan:
