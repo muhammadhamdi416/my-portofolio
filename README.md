@@ -50,3 +50,16 @@ B. Melihat Analisis:
   1. Buka worksheet "DASHBOARD"
   2. Gunakan filter interaktif (Month, Year, Region, State)
 
+## Fitur & Fungsi
+  1. Automated Input System :
+      - Data Validation mencegah input error
+      - Auto-complete untuk konsistensi data
+      - Update data dengan macro button
+
+  2. Interactive Dashboard:
+      - Sales Trend Chart (Bulanan/Tahunan)
+      - Total kontribusi Category Breakdown Pie Chart
+      - Sales Summary Metrics (Sales, Total_Order, Profit, Profit_margin, quantity)
+      - Top 10 Products Visualization
+    
+## Preview Dashboard
