@@ -68,3 +68,27 @@ B. Melihat Analisis:
 
   2. INPUT_DATA_KARYAWAN
 <img src="Images-/INPUT_DATA_KARYAWAN1.png" alt="INPUT_DATA_KARYAWAN.">
+
+## Kemampuan yang Ditunjukkan
+  1. Excel Technical Skills:
+      - Data Management: Validation, Structured Tables, Database Design
+      - Advanced Formulas: Lookup, Logical, Statistical Functions
+      - Visualization: Pivot Charts, Conditional Formatting, Sparklines
+      - Automation: Form Controls, Basic Macros, Dynamic Ranges
+
+  2. Business Analysis Skills:
+      - UI/UX Design: Membuat interface yang user-friendly
+      - Data Integrity: Memastikan kualitas dan konsistensi data
+      - Problem Solving: Mengidentifikasi dan menyelesaikan pain points
+
+##  Potensi Pengembangan
+  - Tambahkan automated email reporting
+  - Integrasi dengan Power Query untuk data cleaning
+  - Tambahkan inventory tracking module
+  - Buat template untuk department lain (HR, Finance)
+
+## Kontak
+Muhammad Hamdi
+    Email         : muhammadhamdi416@gmail.com
+    WA            : 085179647335
+    GitHub: https : //github.com/muhammadhamdi416/
