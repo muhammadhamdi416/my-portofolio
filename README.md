@@ -89,6 +89,6 @@ B. Melihat Analisis:
 
 ## Kontak
 Muhammad Hamdi
-    Email         : muhammadhamdi416@gmail.com
-    WA            : 085179647335
-    GitHub: https : //github.com/muhammadhamdi416/
+  - Email         : muhammadhamdi416@gmail.com
+  - WA            : 085179647335
+  - GitHub: https : //github.com/muhammadhamdi416/
